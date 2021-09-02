@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test4.com" resolutions="1x,2x" timestamp="1630597274785">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test4.com" resolutions="1x,2x" timestamp="1630603764552">
   <folder name="assets">
     <file name="production-id_4389377.mp4" crc="4014158952" seo="true" mt="1628785740000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3932428739" ref="index"/>
-    <file name="nomq_index.css" crc="79565754" ref="index"/>
+    <file name="index.css" crc="236311135" ref="index"/>
+    <file name="nomq_index.css" crc="4098902204" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -44,25 +44,25 @@
     <file name="u235-42.png" crc="3794040274" ref="index"/>
     <file name="u235-4_2x2.png" crc="454960790" ref="index"/>
     <file name="component 8 – 1@2x-u1329-fr2.png" crc="246440523" ref="index"/>
-    <file name="component 6 – 1@2x-u1440-fr.png" crc="24111943" ref="index"/>
-    <file name="component 6 – 1@2x-u1440-fr_2x.png" crc="267483589" ref="index"/>
+    <file name="component 6 – 1@2x-u1440-fr.png" crc="165308188" ref="index"/>
+    <file name="component 6 – 1@2x-u1440-fr_2x.png" crc="3918573539" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="1_6amamsifhotp9xybudqk4a.jpg" crc="29241895" ref="index">
+    <file name="1_6amamsifhotp9xybudqk4a.jpg" crc="379222445" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1_6amamsifhotp9xybudqk4a_2x.jpg" crc="175341422" ref="index">
+    <file name="1_6amamsifhotp9xybudqk4a_2x.jpg" crc="450212725" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="office_blur.jpg" crc="4239352971" ref="index">
+    <file name="office_blur.jpg" crc="3869553893" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="office_blur_2x.jpg" crc="336852799" ref="index">
+    <file name="office_blur_2x.jpg" crc="4053950845" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1602-4.png" crc="3894005268" ref="index"/>
-    <file name="u1602-4_2x.png" crc="294841298" ref="index"/>
-    <file name="u1602-42.png" crc="173627014" ref="index"/>
-    <file name="u1602-4_2x2.png" crc="3762710417" ref="index"/>
+    <file name="u1602-4.png" crc="3936715844" ref="index"/>
+    <file name="u1602-4_2x.png" crc="4231297364" ref="index"/>
+    <file name="u1602-42.png" crc="104426681" ref="index"/>
+    <file name="u1602-4_2x2.png" crc="4111091997" ref="index"/>
     <file name="space background p1 3.jpg" crc="3787878109" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -106,6 +106,16 @@
     <file name="component 19 – 1@2x265x566_2x.png" crc="506420059" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u1949-7.png" crc="382144566" ref="index"/>
+    <file name="u1949-7_2x.png" crc="4148573990" ref="index"/>
+    <file name="1_6amamsifhotp9xybudqk4a-u1542-fr.jpg" crc="215223460" ref="index"/>
+    <file name="1_6amamsifhotp9xybudqk4a-u1542-fr_2x.jpg" crc="338137641" ref="index"/>
+    <file name="office_blur-u1554-fr.jpg" crc="105100228" ref="index"/>
+    <file name="office_blur-u1554-fr_2x.jpg" crc="180318814" ref="index"/>
+    <file name="component 42 – 2-u1596-fr.png" crc="3805170768" ref="index"/>
+    <file name="component 42 – 2-u1596-fr_2x.png" crc="136411577" ref="index"/>
+    <file name="u1949-72.png" crc="401230808" ref="index"/>
+    <file name="u1949-7_2x2.png" crc="533803910" ref="index"/>
   </folder>
-  <file name="index.html" crc="81381222" seo="true" mt="1630597261274" redirect="true"/>
+  <file name="index.html" crc="3949067331" seo="true" mt="1630603750471" redirect="true"/>
 </manifest>
