@@ -1,0 +1,111 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test4.com" resolutions="1x,2x" timestamp="1630596193375">
+  <folder name="assets">
+    <file name="production-id_4389377.mp4" crc="4014158952" seo="true" mt="1628785740000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="405054875" ref="index"/>
+    <file name="nomq_index.css" crc="3943069777" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="component 42 – 2.png" crc="4062278031" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component 42 – 2_2x.png" crc="45650212" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u235-4.png" crc="110333688" ref="index"/>
+    <file name="u235-4_2x.png" crc="3771318133" ref="index"/>
+    <file name="component 8 – 1@2x-u1329-fr.png" crc="138962835" ref="index"/>
+    <file name="component 7 – 1@2x.png" crc="272146258" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component 6 – 1@2x.png" crc="4022864812" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component 6 – 1@2x_2x.png" crc="433010103" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u235-42.png" crc="3794040274" ref="index"/>
+    <file name="u235-4_2x2.png" crc="454960790" ref="index"/>
+    <file name="component 8 – 1@2x-u1329-fr2.png" crc="246440523" ref="index"/>
+    <file name="component 6 – 1@2x-u1440-fr.png" crc="24111943" ref="index"/>
+    <file name="component 6 – 1@2x-u1440-fr_2x.png" crc="267483589" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="1_6amamsifhotp9xybudqk4a.jpg" crc="29241895" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_6amamsifhotp9xybudqk4a_2x.jpg" crc="175341422" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="office_blur.jpg" crc="4239352971" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="office_blur_2x.jpg" crc="336852799" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1602-4.png" crc="3894005268" ref="index"/>
+    <file name="u1602-4_2x.png" crc="294841298" ref="index"/>
+    <file name="u1602-42.png" crc="173627014" ref="index"/>
+    <file name="u1602-4_2x2.png" crc="3762710417" ref="index"/>
+    <file name="space background p1 3.jpg" crc="3787878109" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="space background p1 3_2x.jpg" crc="273464453" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component 14 – 1@2x.png" crc="52712581" ref="index" seo="true">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component 14 – 1@2x_2x.png" crc="3936460737" ref="index" seo="true">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component 33 – 1@2x.png" crc="160692524" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component 33 – 1@2x_2x.png" crc="3883683675" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="component 14 – 1@2x265x566.png" crc="3830183495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component 14 – 1@2x265x566_2x.png" crc="3867563485" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component 33 – 1@2x265x566.png" crc="103204242" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component 33 – 1@2x265x566_2x.png" crc="4209319076" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component 19 – 1@2x.png" crc="68810661" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component 19 – 1@2x_2x.png" crc="403058513" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component 19 – 1@2x265x566.png" crc="32318570" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component 19 – 1@2x265x566_2x.png" crc="506420059" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="377995214" seo="true" mt="1630595164926" redirect="true"/>
+</manifest>
